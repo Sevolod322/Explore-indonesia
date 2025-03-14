@@ -1,0 +1,400 @@
+@media (max-width:1745px) {
+    .welcome-main-footer {
+        padding-left: 205px;
+    }
+    .welcome__footer {
+        width: 1166px;
+    }
+
+}
+
+
+
+
+
+@media (max-width:1660px) {
+    .welcome__footer-list {
+        padding-left: 30px;
+        padding-right: 50px;
+    }
+
+}
+
+
+@media (max-width:1620px) {
+    .welcome__footer-list {
+        padding-left: 20px;
+        padding-right: 30px;
+    }
+    .welcome__footer-video {
+        max-width: 385px;
+    }
+
+}
+
+
+
+
+@media (max-width:1540px) {
+    .welcome-main-footer {
+        padding-left: 160px;
+    }
+    .welcome__footer-list {
+        padding-left: 20px;
+        padding-right: 30px;
+    }
+    .welcome__footer-video {
+        max-width: 375px;
+    }
+    .photo-gallery__images {
+        max-width: 1130px;
+        gap: 24px;
+    }
+    .photo-gallery__images-block {
+        gap: 24px;
+    }
+}
+
+
+@media (max-width: 1500px) {
+    .welcome__main-text {
+        font-size: 105px;
+    }
+    .welcome__explore-block .btn {
+        width: 260px;
+        height: 80px;
+    }
+    
+}
+
+
+@media (max-width: 1470px) {
+    .header {
+        padding-right: 90px;
+    }
+
+
+    .welcome__footer-list__item-title {
+        font-size: 22px;
+    }
+    .welcome__footer-list__item-desc {
+        font-size: 16px;
+    }
+
+    .indonesia__desc-block__image {
+        max-width: 580px;
+    }
+    .footer__btn-scroll {
+        margin-right: 60px;
+    }
+    .footer-footer {
+        padding-left: 50px;
+        padding-right: 100px;
+    }
+}
+
+
+@media (max-width:1300px) {
+    .results {
+        margin-top: 624px;
+    }
+
+    .indonesia__desc-block .container {
+        gap: 62px;
+    }
+}
+
+
+@media (max-width: 1315px) {
+    .welcome__explore-block {
+        padding: 266px 606px 235px 276px;
+    }
+}
+
+
+
+@media (max-width: 1285px) {
+
+    .indonesia__desc-block {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+
+    .videos {
+        height: 1640px;
+    }
+    .videos__main {
+        max-width: 885px;
+    }
+    .videos__mini-videos {
+        gap: 50px;
+    }
+    
+
+    .photo-gallery__images {
+        max-width: 900px;
+        gap: 16px;
+    }
+
+
+    .photo-gallery__images-block {
+        gap: 16px;
+    }
+
+}
+
+
+
+
+@media  (max-width: 1220px) {
+    .indonesia__desc-block .container {
+        gap: 22px;
+    }
+}
+
+@media (max-width: 1250px) {
+
+}
+
+
+@media  (max-width: 1200px) {
+
+    .header {
+        padding-right: 65px;
+    }
+    .welcome__footer-list {
+        padding-right: 4px;
+    }
+    .welcome__footer-video {
+        max-width: 365px;
+    }
+
+
+
+    .indonesia__desc-block__desc-name {
+        font-size: 38px;
+    }
+    
+
+
+
+    .photo-gallery {
+        height: 1340px;
+    }
+
+    
+
+    .footer-logo-menu {
+        gap: 80px;
+    }
+}
+
+
+
+
+@media (max-width:1150px) {
+    .navigation {
+        gap: 30px;
+    }
+    .welcome__explore-block {
+        padding: 266px 606px 235px 215px;
+    }
+    .welcome__footer-list {
+        
+    }
+    .welcome__footer-list__item-title {
+        font-size: 20px;
+    }
+    .welcome__footer-list__item-desc {
+        width: 152px;
+        font-size: 14px;
+    }
+    .welcome__footer-video {
+        display: none;
+    }
+
+
+    .indonesia__desc-block__desc-info {
+        padding-right: 0px;
+    }
+
+
+}
+
+
+
+
+
+
+@media (max-width: 1110px) {
+    .videos {
+        height: 1540px;
+    }
+    
+
+    .photo-gallery {
+        height: 1260px;
+    }
+
+    .videos__main {
+        max-width: 780px;
+    }
+
+
+    .photo-gallery__images {
+        max-width: 830px;
+        gap: 14px;
+    }
+    .photo-gallery__images-block {
+        gap: 14px;
+    }
+    
+
+    .footer-footer {
+        flex-wrap: wrap;
+        justify-content: space-around;
+
+        gap: 19px;
+
+        height: 145px;
+
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+
+    .footer__logo-logo { 
+        font-size: 22px;
+    }
+    .footer-logo-menu {
+        gap: 20px;
+    }
+    
+}
+
+
+@media (max-width: 1050px) {
+
+    .indonesia__desc {
+        height: 1985px;
+    }
+
+
+    .indonesia__desc-block {
+        height: 992px;
+    }
+
+
+    .indonesia__desc-block .container {
+        gap: 82px;
+    }
+
+
+    .indonesia__desc-block__description-1 {
+        padding-top: 120px;
+    }
+
+
+    .indonesia__desc-block__description-1 .container {
+        
+        display: flex;
+        flex-direction: column;
+        
+        height: auto;
+    }
+
+
+
+
+
+    .indonesia__desc-block__description-2 .container {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .mask-group {
+        height: 760px;
+    }
+
+
+    .videos__main {
+        max-width: 754px;
+    }
+    .videos__main-text {
+        font-size: 38px;
+    }
+
+
+    .result__main-text {
+        font-size: 43px;
+    }
+
+
+    .photo-gallery__main-title {
+        font-size: 55px;
+    }
+
+    .photo-gallery {
+        height: 1200px;
+    }
+
+    .photo-gallery__images {
+        max-width: 725px;
+        gap: 10px;
+    }
+
+
+    .photo-gallery__images-block {
+        gap: 10px;
+    }
+
+
+
+
+}
+
+
+
+
+
+
+
+@media (max-width: 995px) {
+    .getting-there {
+        height: 1550px;
+    }
+    .getting-there__desc-subtext {
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+    }
+}
+
+
+
+
+@media (max-width: 950px) {
+    .welcome__explore-block {
+        padding-left: 155px;
+        padding-bottom: 284px;
+    }
+    .welcome__main-text {
+        font-size: 100px;
+        line-height: 105px;
+    }
+}
+
+
+
+
+
+
+@media (max-width: 925px) {
+    .navigation {
+        display: none;
+    }
+}
+
+
